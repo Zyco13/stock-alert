@@ -494,6 +494,61 @@
    "stage": "early",
    "ticker": "SPCX",
    "ts": "2026-10-09T17:31:53Z"
+  },
+  {
+   "alerted": false,
+   "new": true,
+   "price": 35.19,
+   "score": 17.33,
+   "sentiment": null,
+   "spy": 778.57,
+   "stage": "early",
+   "ticker": "IREN",
+   "ts": "2026-10-12T00:31:21Z"
+  },
+  {
+   "alerted": false,
+   "new": true,
+   "price": 361.54,
+   "score": 9.06,
+   "sentiment": null,
+   "spy": 778.57,
+   "stage": "early",
+   "ticker": "AVGO",
+   "ts": "2026-10-12T00:31:21Z"
+  },
+  {
+   "alerted": false,
+   "new": true,
+   "price": 68.93,
+   "score": 8.5,
+   "sentiment": null,
+   "spy": 778.57,
+   "stage": "early",
+   "ticker": "BYD",
+   "ts": "2026-10-12T00:31:21Z"
+  },
+  {
+   "alerted": false,
+   "new": true,
+   "price": 347.86,
+   "score": 8.15,
+   "sentiment": null,
+   "spy": 778.57,
+   "stage": "early",
+   "ticker": "GOOG",
+   "ts": "2026-10-12T00:31:21Z"
+  },
+  {
+   "alerted": false,
+   "new": true,
+   "price": 164.17,
+   "score": 7.74,
+   "sentiment": null,
+   "spy": 778.57,
+   "stage": "early",
+   "ticker": "CBRS",
+   "ts": "2026-10-12T00:31:21Z"
   }
  ],
  "snapshots": [
@@ -3748,6 +3803,182 @@
     "SPCX"
    ],
    "ts": "2026-10-09T17:31:53Z"
+  },
+  {
+   "rows": {
+    "ADBE": [
+     6,
+     32
+    ],
+    "AM": [
+     7,
+     27
+    ],
+    "AMD": [
+     15,
+     8
+    ],
+    "AMZN": [
+     7,
+     25
+    ],
+    "API": [
+     8,
+     23
+    ],
+    "ARR": [
+     8,
+     21
+    ],
+    "ASTS": [
+     49,
+     2
+    ],
+    "AVGO": [
+     10,
+     18
+    ],
+    "BDC": [
+     5,
+     37
+    ],
+    "BYD": [
+     5,
+     36
+    ],
+    "CBRS": [
+     5,
+     41
+    ],
+    "DTE": [
+     23,
+     6
+    ],
+    "ES": [
+     11,
+     14
+    ],
+    "ET": [
+     7,
+     26
+    ],
+    "EU": [
+     5,
+     40
+    ],
+    "GME": [
+     5,
+     39
+    ],
+    "GOOG": [
+     10,
+     17
+    ],
+    "IREN": [
+     13,
+     12
+    ],
+    "IT": [
+     11,
+     15
+    ],
+    "MAGA": [
+     7,
+     30
+    ],
+    "META": [
+     8,
+     22
+    ],
+    "MGM": [
+     5,
+     35
+    ],
+    "MSFT": [
+     8,
+     19
+    ],
+    "MU": [
+     35,
+     3
+    ],
+    "NBIS": [
+     7,
+     31
+    ],
+    "NVDA": [
+     32,
+     4
+    ],
+    "PLTR": [
+     8,
+     20
+    ],
+    "QQQ": [
+     28,
+     5
+    ],
+    "RDDT": [
+     6,
+     34
+    ],
+    "SMH": [
+     11,
+     16
+    ],
+    "SOXL": [
+     7,
+     28
+    ],
+    "SOXX": [
+     7,
+     29
+    ],
+    "SPCX": [
+     15,
+     9
+    ],
+    "SPY": [
+     56,
+     1
+    ],
+    "TLT": [
+     13,
+     11
+    ],
+    "TP": [
+     8,
+     24
+    ],
+    "TSLA": [
+     20,
+     7
+    ],
+    "VOO": [
+     15,
+     10
+    ],
+    "VT": [
+     5,
+     38
+    ],
+    "VZ": [
+     6,
+     33
+    ],
+    "YOU": [
+     12,
+     13
+    ]
+   },
+   "shown": [
+    "IREN",
+    "AVGO",
+    "BYD",
+    "GOOG",
+    "CBRS"
+   ],
+   "ts": "2026-10-12T00:31:21Z"
   }
  ]
 }
