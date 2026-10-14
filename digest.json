@@ -659,6 +659,50 @@
    "stage": "moving",
    "ticker": "OKLO",
    "ts": "2026-10-13T18:28:22Z"
+  },
+  {
+   "alerted": false,
+   "new": true,
+   "price": 1.835,
+   "score": 10.17,
+   "sentiment": null,
+   "spy": 770.88,
+   "stage": "early",
+   "ticker": "HTZ",
+   "ts": "2026-10-14T15:56:36Z"
+  },
+  {
+   "alerted": false,
+   "new": true,
+   "price": 43.095,
+   "score": 2.5,
+   "sentiment": null,
+   "spy": 770.88,
+   "stage": "moving",
+   "ticker": "ASTS",
+   "ts": "2026-10-14T15:56:36Z"
+  },
+  {
+   "alerted": false,
+   "new": true,
+   "price": 187.905,
+   "score": 0.92,
+   "sentiment": null,
+   "spy": 770.88,
+   "stage": "moving",
+   "ticker": "NBIS",
+   "ts": "2026-10-14T15:56:36Z"
+  },
+  {
+   "alerted": false,
+   "new": true,
+   "price": 222.429,
+   "score": 0.76,
+   "sentiment": null,
+   "spy": 770.88,
+   "stage": "early",
+   "ticker": "NVDA",
+   "ts": "2026-10-14T15:56:36Z"
   }
  ],
  "snapshots": [
@@ -4837,6 +4881,45 @@
     "OKLO"
    ],
    "ts": "2026-10-13T18:28:22Z"
+  },
+  {
+   "rows": {
+    "ASTS": [
+     10,
+     4
+    ],
+    "HTZ": [
+     5,
+     6
+    ],
+    "MU": [
+     25,
+     1
+    ],
+    "NBIS": [
+     5,
+     7
+    ],
+    "NVDA": [
+     6,
+     5
+    ],
+    "QQQ": [
+     10,
+     3
+    ],
+    "SPY": [
+     16,
+     2
+    ]
+   },
+   "shown": [
+    "HTZ",
+    "ASTS",
+    "NBIS",
+    "NVDA"
+   ],
+   "ts": "2026-10-14T15:56:36Z"
   }
  ]
 }
