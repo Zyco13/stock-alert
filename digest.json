@@ -3,116 +3,6 @@
   {
    "alerted": false,
    "new": true,
-   "price": 22.995,
-   "score": 38.72,
-   "sentiment": null,
-   "spy": 771.87,
-   "stage": "early",
-   "ticker": "APLD",
-   "ts": "2026-10-08T17:58:12Z"
-  },
-  {
-   "alerted": false,
-   "new": true,
-   "price": 30.13,
-   "score": 27.14,
-   "sentiment": null,
-   "spy": 771.87,
-   "stage": "early",
-   "ticker": "WOLF",
-   "ts": "2026-10-08T17:58:12Z"
-  },
-  {
-   "alerted": false,
-   "new": true,
-   "price": 32.17,
-   "score": 20.66,
-   "sentiment": null,
-   "spy": 771.87,
-   "stage": "early",
-   "ticker": "AGI",
-   "ts": "2026-10-08T17:58:12Z"
-  },
-  {
-   "alerted": false,
-   "new": true,
-   "price": 196.268,
-   "score": 18.41,
-   "sentiment": null,
-   "spy": 771.87,
-   "stage": "early",
-   "ticker": "PLTR",
-   "ts": "2026-10-08T17:58:12Z"
-  },
-  {
-   "alerted": false,
-   "new": true,
-   "price": 13.385,
-   "score": 15.85,
-   "sentiment": null,
-   "spy": 771.87,
-   "stage": "early",
-   "ticker": "WULF",
-   "ts": "2026-10-08T17:58:12Z"
-  },
-  {
-   "alerted": false,
-   "new": true,
-   "price": 48.675,
-   "score": 69.27,
-   "sentiment": null,
-   "spy": 778.03,
-   "stage": "moving",
-   "ticker": "ASTS",
-   "ts": "2026-10-09T17:31:53Z"
-  },
-  {
-   "alerted": false,
-   "new": true,
-   "price": 41.3683,
-   "score": 35.98,
-   "sentiment": null,
-   "spy": 778.03,
-   "stage": "moving",
-   "ticker": "VZ",
-   "ts": "2026-10-09T17:31:53Z"
-  },
-  {
-   "alerted": false,
-   "new": true,
-   "price": 382.578,
-   "score": 27.82,
-   "sentiment": null,
-   "spy": 778.03,
-   "stage": "early",
-   "ticker": "TSLA",
-   "ts": "2026-10-09T17:31:53Z"
-  },
-  {
-   "alerted": false,
-   "new": true,
-   "price": 13.625,
-   "score": 23.92,
-   "sentiment": null,
-   "spy": 778.03,
-   "stage": "early",
-   "ticker": "MH",
-   "ts": "2026-10-09T17:31:53Z"
-  },
-  {
-   "alerted": false,
-   "new": true,
-   "price": 161.215,
-   "score": 23.75,
-   "sentiment": null,
-   "spy": 778.03,
-   "stage": "early",
-   "ticker": "SPCX",
-   "ts": "2026-10-09T17:31:53Z"
-  },
-  {
-   "alerted": false,
-   "new": true,
    "price": 35.19,
    "score": 17.33,
    "sentiment": null,
@@ -1363,129 +1253,64 @@
    "stage": "early",
    "ticker": "ORCL",
    "ts": "2026-11-06T18:20:48Z"
+  },
+  {
+   "alerted": false,
+   "new": true,
+   "price": 186.64,
+   "score": 25.72,
+   "sentiment": null,
+   "spy": 735.29,
+   "stage": "moving",
+   "ticker": "NVDA",
+   "ts": "2026-11-09T00:51:56Z"
+  },
+  {
+   "alerted": false,
+   "new": true,
+   "price": 28.76,
+   "score": 21.57,
+   "sentiment": null,
+   "spy": 735.29,
+   "stage": "early",
+   "ticker": "SMCI",
+   "ts": "2026-11-09T00:51:56Z"
+  },
+  {
+   "alerted": false,
+   "new": true,
+   "price": 53.07,
+   "score": 10.16,
+   "sentiment": null,
+   "spy": 735.29,
+   "stage": "late",
+   "ticker": "RKLB",
+   "ts": "2026-11-09T00:51:56Z"
+  },
+  {
+   "alerted": false,
+   "new": true,
+   "price": 293.69,
+   "score": 10.01,
+   "sentiment": null,
+   "spy": 735.29,
+   "stage": "moving",
+   "ticker": "AVGO",
+   "ts": "2026-11-09T00:51:56Z"
+  },
+  {
+   "alerted": false,
+   "new": true,
+   "price": 189.53,
+   "score": 9.35,
+   "sentiment": null,
+   "spy": 735.29,
+   "stage": "moving",
+   "ticker": "RTX",
+   "ts": "2026-11-09T00:51:56Z"
   }
  ],
  "snapshots": [
-  {
-   "rows": {
-    "AMD": [
-     7,
-     18
-    ],
-    "AMZN": [
-     14,
-     8
-    ],
-    "ASTS": [
-     5,
-     27
-    ],
-    "AVGO": [
-     7,
-     19
-    ],
-    "CRWV": [
-     13,
-     11
-    ],
-    "ET": [
-     9,
-     14
-    ],
-    "FCF": [
-     5,
-     26
-    ],
-    "GOOG": [
-     13,
-     10
-    ],
-    "GOOGL": [
-     9,
-     15
-    ],
-    "HR": [
-     6,
-     21
-    ],
-    "IQ": [
-     5,
-     24
-    ],
-    "IT": [
-     10,
-     13
-    ],
-    "MSFT": [
-     24,
-     2
-    ],
-    "MU": [
-     20,
-     4
-    ],
-    "NBIS": [
-     11,
-     12
-    ],
-    "NOW": [
-     17,
-     5
-    ],
-    "NVDA": [
-     16,
-     6
-    ],
-    "PLTR": [
-     5,
-     25
-    ],
-    "QQQ": [
-     23,
-     3
-    ],
-    "RDDT": [
-     14,
-     9
-    ],
-    "SNDK": [
-     8,
-     17
-    ],
-    "SOXL": [
-     7,
-     20
-    ],
-    "SPCX": [
-     15,
-     7
-    ],
-    "SPY": [
-     42,
-     1
-    ],
-    "TSLA": [
-     8,
-     16
-    ],
-    "VC": [
-     5,
-     23
-    ],
-    "YOU": [
-     6,
-     22
-    ]
-   },
-   "shown": [
-    "ET",
-    "HR",
-    "NOW",
-    "RDDT",
-    "MSFT"
-   ],
-   "ts": "2026-10-25T23:15:10Z"
-  },
   {
    "rows": {
     "AAA": [
@@ -5309,6 +5134,226 @@
     "ORCL"
    ],
    "ts": "2026-11-06T18:20:48Z"
+  },
+  {
+   "rows": {
+    "AAPL": [
+     8,
+     33
+    ],
+    "AGI": [
+     6,
+     43
+    ],
+    "ALL": [
+     10,
+     27
+    ],
+    "AM": [
+     8,
+     34
+    ],
+    "AMD": [
+     46,
+     5
+    ],
+    "AMZN": [
+     9,
+     30
+    ],
+    "ASTS": [
+     33,
+     8
+    ],
+    "AVGO": [
+     19,
+     14
+    ],
+    "CD": [
+     5,
+     49
+    ],
+    "CIA": [
+     16,
+     18
+    ],
+    "CRWV": [
+     25,
+     9
+    ],
+    "DC": [
+     6,
+     45
+    ],
+    "DJT": [
+     5,
+     52
+    ],
+    "DTE": [
+     20,
+     13
+    ],
+    "ES": [
+     10,
+     28
+    ],
+    "ET": [
+     13,
+     22
+    ],
+    "EU": [
+     8,
+     36
+    ],
+    "GOOG": [
+     21,
+     11
+    ],
+    "GOOGL": [
+     8,
+     35
+    ],
+    "HBM": [
+     5,
+     46
+    ],
+    "HR": [
+     9,
+     32
+    ],
+    "IG": [
+     5,
+     48
+    ],
+    "INTC": [
+     15,
+     20
+    ],
+    "IP": [
+     11,
+     25
+    ],
+    "IQ": [
+     15,
+     21
+    ],
+    "IREN": [
+     16,
+     19
+    ],
+    "IT": [
+     9,
+     31
+    ],
+    "JD": [
+     5,
+     47
+    ],
+    "LUNR": [
+     5,
+     51
+    ],
+    "META": [
+     5,
+     50
+    ],
+    "MSFT": [
+     16,
+     17
+    ],
+    "MU": [
+     48,
+     3
+    ],
+    "NBIS": [
+     46,
+     6
+    ],
+    "NOW": [
+     7,
+     37
+    ],
+    "NVDA": [
+     392,
+     1
+    ],
+    "ON": [
+     7,
+     39
+    ],
+    "PR": [
+     7,
+     41
+    ],
+    "QQQ": [
+     47,
+     4
+    ],
+    "RDDT": [
+     23,
+     10
+    ],
+    "RKLB": [
+     37,
+     7
+    ],
+    "RTX": [
+     7,
+     40
+    ],
+    "SMCI": [
+     21,
+     12
+    ],
+    "SNDK": [
+     18,
+     16
+    ],
+    "SO": [
+     7,
+     38
+    ],
+    "SOXL": [
+     18,
+     15
+    ],
+    "SPCX": [
+     13,
+     23
+    ],
+    "SPY": [
+     138,
+     2
+    ],
+    "TSLA": [
+     12,
+     24
+    ],
+    "TTWO": [
+     6,
+     42
+    ],
+    "USO": [
+     6,
+     44
+    ],
+    "VOO": [
+     11,
+     26
+    ],
+    "YOU": [
+     10,
+     29
+    ]
+   },
+   "shown": [
+    "NVDA",
+    "SMCI",
+    "RKLB",
+    "AVGO",
+    "RTX"
+   ],
+   "ts": "2026-11-09T00:51:56Z"
   }
  ]
 }
