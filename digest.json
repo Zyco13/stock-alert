@@ -3,116 +3,6 @@
   {
    "alerted": false,
    "new": true,
-   "price": 63.68,
-   "score": 63.82,
-   "sentiment": null,
-   "spy": 770.2,
-   "stage": "moving",
-   "ticker": "CRWV",
-   "ts": "2026-10-15T15:42:27Z"
-  },
-  {
-   "alerted": false,
-   "new": true,
-   "price": 419.58,
-   "score": 51.42,
-   "sentiment": null,
-   "spy": 770.2,
-   "stage": "moving",
-   "ticker": "TSM",
-   "ts": "2026-10-15T15:42:27Z"
-  },
-  {
-   "alerted": false,
-   "new": true,
-   "price": 52.84,
-   "score": 49.72,
-   "sentiment": null,
-   "spy": 770.2,
-   "stage": "moving",
-   "ticker": "RKLB",
-   "ts": "2026-10-15T15:42:27Z"
-  },
-  {
-   "alerted": false,
-   "new": false,
-   "price": 216.75,
-   "score": 44.22,
-   "sentiment": null,
-   "spy": 770.2,
-   "stage": "early",
-   "ticker": "NVDA",
-   "ts": "2026-10-15T15:42:27Z"
-  },
-  {
-   "alerted": false,
-   "new": true,
-   "price": 27.94,
-   "score": 34.96,
-   "sentiment": null,
-   "spy": 770.2,
-   "stage": "moving",
-   "ticker": "IREN",
-   "ts": "2026-10-15T15:42:27Z"
-  },
-  {
-   "alerted": false,
-   "new": true,
-   "price": 358.21,
-   "score": 55.83,
-   "sentiment": null,
-   "spy": 768.693,
-   "stage": "early",
-   "ticker": "TSLA",
-   "ts": "2026-10-16T15:29:25Z"
-  },
-  {
-   "alerted": false,
-   "new": true,
-   "price": 69.9,
-   "score": 35.25,
-   "sentiment": null,
-   "spy": 768.693,
-   "stage": "early",
-   "ticker": "BYD",
-   "ts": "2026-10-16T15:29:25Z"
-  },
-  {
-   "alerted": false,
-   "new": true,
-   "price": 2.51,
-   "score": 32.27,
-   "sentiment": null,
-   "spy": 768.693,
-   "stage": "moving",
-   "ticker": "SPCE",
-   "ts": "2026-10-16T15:29:25Z"
-  },
-  {
-   "alerted": false,
-   "new": true,
-   "price": 2.74,
-   "score": 18.04,
-   "sentiment": null,
-   "spy": 768.693,
-   "stage": "late",
-   "ticker": "XLAB",
-   "ts": "2026-10-16T15:29:25Z"
-  },
-  {
-   "alerted": false,
-   "new": true,
-   "price": 23.985,
-   "score": 17.06,
-   "sentiment": null,
-   "spy": 768.693,
-   "stage": "early",
-   "ticker": "PR",
-   "ts": "2026-10-16T15:29:25Z"
-  },
-  {
-   "alerted": false,
-   "new": true,
    "price": 127.21,
    "score": 17.69,
    "sentiment": null,
@@ -1374,161 +1264,64 @@
    "stage": "early",
    "ticker": "WMT",
    "ts": "2026-11-13T18:42:19Z"
+  },
+  {
+   "alerted": false,
+   "new": true,
+   "price": 1495.16,
+   "score": 40.83,
+   "sentiment": null,
+   "spy": 754.37,
+   "stage": "early",
+   "ticker": "ASML",
+   "ts": "2026-11-16T01:00:04Z"
+  },
+  {
+   "alerted": false,
+   "new": true,
+   "price": 252.99,
+   "score": 9.64,
+   "sentiment": null,
+   "spy": 754.37,
+   "stage": "early",
+   "ticker": "RSG",
+   "ts": "2026-11-16T01:00:04Z"
+  },
+  {
+   "alerted": false,
+   "new": true,
+   "price": 140.87,
+   "score": 7.97,
+   "sentiment": null,
+   "spy": 754.37,
+   "stage": "early",
+   "ticker": "CPA",
+   "ts": "2026-11-16T01:00:04Z"
+  },
+  {
+   "alerted": false,
+   "new": true,
+   "price": 86.0,
+   "score": 7.62,
+   "sentiment": null,
+   "spy": 754.37,
+   "stage": "early",
+   "ticker": "GM",
+   "ts": "2026-11-16T01:00:04Z"
+  },
+  {
+   "alerted": false,
+   "new": true,
+   "price": 227.82,
+   "score": 7.47,
+   "sentiment": null,
+   "spy": 754.37,
+   "stage": "early",
+   "ticker": "TTWO",
+   "ts": "2026-11-16T01:00:04Z"
   }
  ],
  "snapshots": [
-  {
-   "rows": {
-    "AAPL": [
-     22,
-     4
-    ],
-    "AGI": [
-     8,
-     21
-    ],
-    "AMD": [
-     15,
-     8
-    ],
-    "AMZN": [
-     7,
-     22
-    ],
-    "API": [
-     15,
-     10
-    ],
-    "ASTS": [
-     6,
-     28
-    ],
-    "DTE": [
-     12,
-     13
-    ],
-    "EU": [
-     6,
-     30
-    ],
-    "FCF": [
-     11,
-     16
-    ],
-    "GOOG": [
-     53,
-     2
-    ],
-    "GOOGL": [
-     17,
-     6
-    ],
-    "HOOD": [
-     5,
-     33
-    ],
-    "INTC": [
-     7,
-     23
-    ],
-    "IT": [
-     13,
-     12
-    ],
-    "LINK": [
-     5,
-     35
-    ],
-    "META": [
-     12,
-     15
-    ],
-    "MSFT": [
-     10,
-     17
-    ],
-    "MU": [
-     7,
-     24
-    ],
-    "NBIS": [
-     9,
-     20
-    ],
-    "NOW": [
-     6,
-     26
-    ],
-    "NVDA": [
-     15,
-     7
-    ],
-    "PLTR": [
-     12,
-     14
-    ],
-    "PR": [
-     5,
-     34
-    ],
-    "QQQ": [
-     14,
-     11
-    ],
-    "RDDT": [
-     55,
-     1
-    ],
-    "RKLB": [
-     6,
-     29
-    ],
-    "SNDK": [
-     10,
-     18
-    ],
-    "SOXL": [
-     5,
-     31
-    ],
-    "SPCX": [
-     17,
-     5
-    ],
-    "SPY": [
-     23,
-     3
-    ],
-    "TSLA": [
-     6,
-     25
-    ],
-    "VOO": [
-     15,
-     9
-    ],
-    "VT": [
-     9,
-     19
-    ],
-    "VTI": [
-     6,
-     27
-    ],
-    "VXUS": [
-     5,
-     32
-    ]
-   },
-   "shown": [
-    "ASTS",
-    "SPCX",
-    "RKLB",
-    "PR",
-    "HOOD"
-   ],
-   "ts": "2026-11-02T00:42:50Z"
-  },
   {
    "rows": {
     "AAPL": [
@@ -6076,6 +5869,270 @@
     "WMT"
    ],
    "ts": "2026-11-13T18:42:19Z"
+  },
+  {
+   "rows": {
+    "AAPL": [
+     6,
+     44
+    ],
+    "ALL": [
+     9,
+     32
+    ],
+    "AM": [
+     9,
+     34
+    ],
+    "AMD": [
+     53,
+     2
+    ],
+    "AMZN": [
+     5,
+     48
+    ],
+    "API": [
+     12,
+     27
+    ],
+    "ASML": [
+     28,
+     7
+    ],
+    "ASTS": [
+     16,
+     18
+    ],
+    "AVGO": [
+     9,
+     31
+    ],
+    "BE": [
+     5,
+     56
+    ],
+    "BIS": [
+     5,
+     60
+    ],
+    "CC": [
+     5,
+     54
+    ],
+    "CIA": [
+     30,
+     6
+    ],
+    "CPA": [
+     5,
+     55
+    ],
+    "CRWV": [
+     13,
+     23
+    ],
+    "DC": [
+     14,
+     22
+    ],
+    "DTE": [
+     16,
+     16
+    ],
+    "ET": [
+     6,
+     46
+    ],
+    "EU": [
+     10,
+     29
+    ],
+    "GE": [
+     5,
+     51
+    ],
+    "GM": [
+     8,
+     36
+    ],
+    "GME": [
+     12,
+     26
+    ],
+    "GOAT": [
+     7,
+     43
+    ],
+    "GOOG": [
+     14,
+     21
+    ],
+    "HR": [
+     23,
+     9
+    ],
+    "IBM": [
+     5,
+     50
+    ],
+    "IP": [
+     5,
+     52
+    ],
+    "IQ": [
+     8,
+     37
+    ],
+    "IT": [
+     15,
+     19
+    ],
+    "LINK": [
+     5,
+     63
+    ],
+    "LOT": [
+     8,
+     40
+    ],
+    "MAGA": [
+     12,
+     25
+    ],
+    "META": [
+     8,
+     39
+    ],
+    "MSFT": [
+     16,
+     15
+    ],
+    "MSTR": [
+     19,
+     11
+    ],
+    "MU": [
+     18,
+     13
+    ],
+    "NBIS": [
+     20,
+     10
+    ],
+    "NVDA": [
+     446,
+     1
+    ],
+    "NYT": [
+     18,
+     14
+    ],
+    "OG": [
+     8,
+     38
+    ],
+    "ON": [
+     6,
+     45
+    ],
+    "PR": [
+     19,
+     12
+    ],
+    "QQQ": [
+     43,
+     4
+    ],
+    "RKLB": [
+     5,
+     62
+    ],
+    "RR": [
+     6,
+     47
+    ],
+    "RSG": [
+     7,
+     41
+    ],
+    "RTX": [
+     11,
+     28
+    ],
+    "SMCI": [
+     9,
+     33
+    ],
+    "SNDK": [
+     15,
+     20
+    ],
+    "SOXL": [
+     9,
+     35
+    ],
+    "SOXX": [
+     5,
+     57
+    ],
+    "SPCX": [
+     33,
+     5
+    ],
+    "SPY": [
+     51,
+     3
+    ],
+    "SQQQ": [
+     5,
+     61
+    ],
+    "TSLA": [
+     9,
+     30
+    ],
+    "TTWO": [
+     7,
+     42
+    ],
+    "VC": [
+     12,
+     24
+    ],
+    "VOO": [
+     24,
+     8
+    ],
+    "VT": [
+     5,
+     58
+    ],
+    "VTI": [
+     5,
+     59
+    ],
+    "WM": [
+     5,
+     53
+    ],
+    "WMT": [
+     5,
+     49
+    ],
+    "YOU": [
+     16,
+     17
+    ]
+   },
+   "shown": [
+    "ASML",
+    "RSG",
+    "CPA",
+    "GM",
+    "TTWO"
+   ],
+   "ts": "2026-11-16T01:00:04Z"
   }
  ]
 }
