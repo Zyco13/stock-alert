@@ -1,7 +1,5 @@
 {
- "active": [
-  "vol_normalizing"
- ],
+ "active": [],
  "fired": {
   "vol_normalizing": "2026-11-11",
   "vol_shock": "2026-10-30"
