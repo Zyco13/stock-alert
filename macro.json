@@ -1,8 +1,10 @@
 {
  "active": [
+  "vol_capitulation",
   "vol_shock"
  ],
  "fired": {
+  "vol_capitulation": "2026-11-24",
   "vol_normalizing": "2026-11-11",
   "vol_shock": "2026-11-17"
  }
