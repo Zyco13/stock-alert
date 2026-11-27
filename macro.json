@@ -1,7 +1,5 @@
 {
- "active": [
-  "vol_shock"
- ],
+ "active": [],
  "fired": {
   "vol_capitulation": "2026-11-24",
   "vol_normalizing": "2026-11-11",
